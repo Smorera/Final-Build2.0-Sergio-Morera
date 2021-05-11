@@ -436,6 +436,7 @@ GameObject:
   - component: {fileID: 247432139}
   - component: {fileID: 247432138}
   - component: {fileID: 247432137}
+  - component: {fileID: 247432143}
   m_Layer: 0
   m_Name: Tablet
   m_TagString: Untagged
@@ -5299,6 +5300,25 @@ Transform:
   m_Father: {fileID: 60074931}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 45, y: 45, z: 45}
+--- !u!95 &247432143
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 247432136}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fbc77d4ab3a5f40d192b8cfb07e978b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &283381607
 GameObject:
   m_ObjectHideFlags: 0
@@ -5752,6 +5772,7 @@ GameObject:
   - component: {fileID: 597372930}
   - component: {fileID: 597372929}
   - component: {fileID: 597372928}
+  - component: {fileID: 597372934}
   m_Layer: 0
   m_Name: Tablet (4)
   m_TagString: Untagged
@@ -10615,6 +10636,25 @@ Transform:
   m_Father: {fileID: 60074931}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 45, y: 45, z: 45}
+--- !u!95 &597372934
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597372927}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fbc77d4ab3a5f40d192b8cfb07e978b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &649678017
 GameObject:
   m_ObjectHideFlags: 0
@@ -11208,6 +11248,7 @@ GameObject:
   - component: {fileID: 1051409867}
   - component: {fileID: 1051409866}
   - component: {fileID: 1051409865}
+  - component: {fileID: 1051409871}
   m_Layer: 0
   m_Name: Tablet (2)
   m_TagString: Untagged
@@ -16071,6 +16112,25 @@ Transform:
   m_Father: {fileID: 60074931}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 45, y: 45, z: 45}
+--- !u!95 &1051409871
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1051409864}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fbc77d4ab3a5f40d192b8cfb07e978b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1071888423
 GameObject:
   m_ObjectHideFlags: 0
@@ -16313,6 +16373,7 @@ GameObject:
   - component: {fileID: 1127353624}
   - component: {fileID: 1127353623}
   - component: {fileID: 1127353622}
+  - component: {fileID: 1127353628}
   m_Layer: 0
   m_Name: Tablet (1)
   m_TagString: Untagged
@@ -21176,6 +21237,25 @@ Transform:
   m_Father: {fileID: 60074931}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 45, y: 45, z: 45}
+--- !u!95 &1127353628
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1127353621}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fbc77d4ab3a5f40d192b8cfb07e978b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1182841937
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21574,6 +21654,7 @@ GameObject:
   - component: {fileID: 1394272473}
   - component: {fileID: 1394272472}
   - component: {fileID: 1394272471}
+  - component: {fileID: 1394272477}
   m_Layer: 0
   m_Name: Tablet (3)
   m_TagString: Untagged
@@ -26437,6 +26518,25 @@ Transform:
   m_Father: {fileID: 60074931}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 45, y: 45, z: 45}
+--- !u!95 &1394272477
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1394272470}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fbc77d4ab3a5f40d192b8cfb07e978b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1409879461
 PrefabInstance:
   m_ObjectHideFlags: 0
